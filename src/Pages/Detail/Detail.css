@@ -1,0 +1,43 @@
+.title{
+    font-weight: 700;
+}
+.company{
+    letter-spacing: 0.1rem;
+    font-weight: 400;
+    padding-left: 15px;
+}
+.tax{
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(153, 153, 153);
+    font-size: 15px;
+}
+.dollar{
+    padding-left: 15px;
+    letter-spacing: 0.1rem;
+    font-weight: 400;
+    font-family: "Roboto Condensed", sans-serif;
+}
+.info{
+    font-family: "Roboto Condensed", sans-serif;
+    color: rgb(65, 65, 65);
+    font-size: 18px;
+    font-weight:300;
+}
+.Btn{
+    font-family: "Roboto Condensed", sans-serif;
+    background-color: #050505;
+    color: white;
+    border: none;
+    font-size: 18px;
+    padding:10px 25px ;
+    transition: 0.2s all linear;
+}
+.Btn:hover{
+    padding:10px 27px;
+}
+.img-fluid{
+    min-height: 500px;
+    max-height: 500px ;
+    background-color: rgb(233, 233, 233);;
+}

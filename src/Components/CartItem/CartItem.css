@@ -1,0 +1,27 @@
+*{
+font-weight: 400;
+}
+
+.btn-black{
+  
+    background: transparent;
+    font-size: 1rem !important;
+    color: #050505;
+    border-radius: 0 !important;
+    border: 0.15rem solid #050505 !important;
+}
+.btn-black:hover{
+background: #050505 !important;
+color: white;
+}
+.cart-icon{
+    cursor: pointer;
+font-size: 1.2rem;
+color: #050505;
+}
+.btn{
+    display: inline;
+}
+.row {
+    align-items: center;
+}
